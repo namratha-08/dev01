@@ -1,0 +1,67 @@
+[33mcommit 4bf923fc43d6fb19e24e54102df25542fc609899[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Namratha S <snamratha107@gmail.com>
+Date:   Thu Jun 19 14:57:00 2025 +0530
+
+    Create swap.py
+
+[33mcommit 77788446e5f5b0c6f50b0a8b0bc7db2a7e295a96[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 15:36:50 2025 +0530
+
+    hello4.txt is created wrt cherry pick
+
+[33mcommit b97bd72ee31ea112626363d7e0ebd46511358eb4[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 15:33:49 2025 +0530
+
+    hi.c first commit
+
+[33mcommit 9e2376e367b1910baf216794c2d975b9afc35521[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 15:18:33 2025 +0530
+
+    Revert "bb.c first commit"
+    
+    This reverts commit 1848b56eaca6789386f6d5e6b7f7d599ed450b1b.
+
+[33mcommit 5b363d8bc65a7d61c5704dd3bf7a0fbc818a1fd4[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 15:17:45 2025 +0530
+
+    bb.c first commit
+
+[33mcommit aab8168cd195422e9a653d70d5e972cfb58b9e31[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 15:14:22 2025 +0530
+
+    a.c first commit
+
+[33mcommit 3b953a5e095a5ae69ccba114b76cc10c197f204d[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 14:52:46 2025 +0530
+
+    new com
+
+[33mcommit db0f9fdcd2de8a717e905ecdea0529d8a3ba72d0[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 14:49:17 2025 +0530
+
+    hello file is changed
+
+[33mcommit e78fa67d5cd5d906327478eb824db5699fc8c59b[m
+Author: namratha-08 <snamratha107@gmail.com>
+Date:   Thu May 22 14:47:22 2025 +0530
+
+    new commit1
+
+[33mcommit 8b4ae147f9d8bb6b803eb68efad46818121bea78[m
+Author: Namratha S <snamratha107@gmail.com>
+Date:   Thu May 22 14:31:46 2025 +0530
+
+    Create abc.txt
+
+[33mcommit 95a6565c6cf90bd05868cb63d983b94b6aaa771a[m
+Author: Namratha S <snamratha107@gmail.com>
+Date:   Thu May 22 14:27:03 2025 +0530
+
+    Initial commit
